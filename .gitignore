@@ -1,0 +1,55 @@
+# Project exclude paths
+/.gradle/
+/Problems/Arithmetic expression/out/
+/Problems/Arithmetic expression/out/production/classes/
+/Problems/Boys in a sport class/out/
+/Problems/Boys in a sport class/out/production/classes/
+/Problems/Check burgs/out/
+/Problems/Check burgs/out/production/classes/
+/Problems/Check prefix ignoring the case/out/
+/Problems/Check prefix ignoring the case/out/production/classes/
+/Problems/Check the given numbers are different/out/
+/Problems/Check the given numbers are different/out/production/classes/
+/Problems/Check the sum/out/
+/Problems/Check the sum/out/production/classes/
+/Problems/Converting and multiplying/out/
+/Problems/Converting and multiplying/out/production/classes/
+/Problems/Decrement all/out/
+/Problems/Decrement all/out/production/classes/
+/Problems/Extracting a substring/out/
+/Problems/Extracting a substring/out/production/classes/
+/Problems/First digit/out/
+/Problems/First digit/out/production/classes/
+/Problems/Grades/out/
+/Problems/Grades/out/production/classes/
+/Problems/Hiring a chef/out/
+/Problems/Hiring a chef/out/production/classes/
+/Problems/Initializing an array of characters/out/
+/Problems/Initializing an array of characters/out/production/classes/
+/Problems/Initializing an array of longs/out/
+/Problems/Initializing an array of longs/out/production/classes/
+/Problems/Leap year/out/
+/Problems/Leap year/out/production/classes/
+/Problems/Next even number/out/
+/Problems/Next even number/out/production/classes/
+/Problems/Numbers divisible by six/out/
+/Problems/Numbers divisible by six/out/production/classes/
+/Problems/Print strings in the reverse order/out/
+/Problems/Print strings in the reverse order/out/production/classes/
+/Problems/Printing each word in a new line/out/
+/Problems/Printing each word in a new line/out/production/classes/
+/Problems/Queens/out/
+/Problems/Queens/out/production/classes/
+/Problems/Reversing/out/
+/Problems/Reversing/out/production/classes/
+/Problems/The army of units/out/
+/Problems/The army of units/out/production/classes/
+/Problems/The roots of an equation/out/
+/Problems/The roots of an equation/out/production/classes/
+/Readability Score/task/out/
+/Readability Score/task/out/production/classes/
+/Readability Score/task/out/test/classes/
+/Readability Score (1)/task/build/
+/Readability Score (1)/task/out/
+/Readability Score (1)/task/out/production/classes/
+/Readability Score (1)/task/out/test/classes/
